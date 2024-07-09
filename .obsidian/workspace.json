@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "706ec7024baf89bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2af6029761a9347",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15af64bd7558eb1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/1. Channel Ideas with reference/2. Ai voice over/2. Fake chats and ai voice/Reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb57f2030bfea767",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3f9e92d534db545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f2e293380b308de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49e7eeee9dd8ca19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18a2acda3cbcca68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e519bd0668c1b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4168aad94927e8f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8eb3985790f48ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Season 2/1. Channel Ideas with reference/2. Ai voice over/2. Fake chats and ai voice/Reference.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23c0803c4c5bb11d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Season 2/1. Channel Ideas with reference/2. Ai voice over/2. Fake chats and ai voice/Reference.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afefd911a2e29591",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f56bf908bf5465c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Season 2/1. Channel Ideas with reference/2. Ai voice over/2. Fake chats and ai voice/Reference.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "15af64bd7558eb1d",
+  "lastOpenFiles": [
+    "Season 2/1. Channel Ideas with reference/2. Ai voice over/2. Fake chats and ai voice/Stock footage(no copyright).md",
+    "Season 2/1. Channel Ideas with reference/2. Ai voice over/2. Fake chats and ai voice/Tutorial.md",
+    "Season 2/1. Channel Ideas with reference/2. Ai voice over/2. Fake chats and ai voice/Reference.md",
+    "Season 2/1. Channel Ideas with reference/5. Other's video with captions/3. Interview and trending/Reference.md",
+    "Season 2/1. Channel Ideas with reference/8. Movie scene with subtitles/Reference.md",
+    "Season 2/1. Channel Ideas with reference/5. Other's video with captions/3. Interview and trending",
+    "Season 2/1. Channel Ideas with reference/8. Movie scene with subtitles",
+    "Season 2/1. Channel Ideas with reference/Misc/Reference.md",
+    "Season 2/1. Channel Ideas with reference/7. Motivational quote/Reference.md",
+    "Season 2/1. Channel Ideas with reference/6. Music Video type/Reference.md",
+    "Season 2/1. Channel Ideas with reference/7. Motivational quote",
+    "Season 2/1. Channel Ideas with reference/3. Viral video with quote/Reference.md",
+    "Season 2/1. Channel Ideas with reference/6. Music Video type",
+    "Season 2/1. Channel Ideas with reference/5. Other's video with captions/2. Random education with ai and subtitles/Reference.md",
+    "Season 2/1. Channel Ideas with reference/5. Other's video with captions/1. UPSC interview type/Reference.md",
+    "Season 2/1. Channel Ideas with reference/5. Other's video with captions/2. Random education with ai and subtitles",
+    "Season 2/1. Channel Ideas with reference/5. Other's video with captions/1. UPSC interview type",
+    "Season 2/1. Channel Ideas with reference/5. Other's video with captions",
+    "Season 2/1. Channel Ideas with reference/4. Product review type/Reference.md",
+    "Season 2/1. Channel Ideas with reference/4. Product review type",
+    "Season 2/1. Channel Ideas with reference/2. Ai voice over/1. Reading tweets and images/Reference.md",
+    "Season 2/1. Channel Ideas with reference/2. Ai voice over/2. Fake chats and ai voice",
+    "Season 2/1. Channel Ideas with reference/Misc",
+    "Season 2/1. Channel Ideas with reference/1. Cyber based/1. References.md",
+    "Season 1/To find/1. Where to get this workout video.md",
+    "Season 1/Reuploading/1.md",
+    "No copyright for using movie clips.md"
+  ]
+}
