@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Websites/3. Vidiq.md",
+                "file": "Season 2/1. Channel Ideas with reference/3. Viral video with quote/Reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fa85cc8d283615d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/1. Channel Ideas with reference/3. Viral video with quote/Reference.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Websites/3. Vidiq.md",
+            "file": "Season 2/1. Channel Ideas with reference/3. Viral video with quote/Reference.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Websites/3. Vidiq.md",
+            "file": "Season 2/1. Channel Ideas with reference/3. Viral video with quote/Reference.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Websites/3. Vidiq.md"
+            "file": "Season 2/1. Channel Ideas with reference/3. Viral video with quote/Reference.md"
           }
         }
       }
@@ -140,11 +152,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4e5c81128933b19",
+  "active": "1fa85cc8d283615d",
   "lastOpenFiles": [
+    "Season 2/1. Channel Ideas with reference/2. Ai voice over/1. Reading tweets and images/Reference.md",
+    "Season 2/1. Channel Ideas with reference/3. Viral video with quote/Reference.md",
+    "Season 2/1. Channel Ideas with reference/3. Viral video with quote/For stock.md",
+    "Season 2/1. Channel Ideas with reference/2. Ai voice over/2. Fake chats and ai voice/Reference.md",
+    "Websites/3. Vidiq.md",
+    "Season 2/1. Channel Ideas with reference/8. Movie scene with subtitles/Reference.md",
     "Websites/4 title generator.md",
     "Reference videos/7.md",
-    "Websites/3. Vidiq.md",
     "Ideas/9.md",
     "Scene packs/2 American psycho.md",
     "Ideas/8 memmory reboot.md",
@@ -165,12 +182,7 @@
     "Reference videos/2 the boys Billy buthcer.md",
     "Ideas/2 kuzan entry.md",
     "Reference channels/4 beyond boundaries.md",
-    "Reference videos/1 super man edit.md",
-    "Scene packs/1. Superman.md",
-    "No copyright for using movie clips.md",
     "Scene packs",
-    "Background stock/1 NCF Onmyway.md",
-    "Websites/2. animeclipsraw.fr.md",
     "Background stock",
     "Websites",
     "Reference channels",
